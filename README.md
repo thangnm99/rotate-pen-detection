@@ -25,7 +25,7 @@ pip install "uvicorn[standard]"
 ## Note book
 https://colab.research.google.com/drive/16fuiXJ66wKha6PyPplFT6kKzI9vupIcC?authuser=1#scrollTo=4E3b4K7sixIt
 ## Trained model for pen detection with mmrotate
-in the link of saved_model directory
+the link is in the txt file in saved_model directory
 
 # Run code
 uvicorn fast_api:app --host 0.0.0.0 --port 80
