@@ -125,10 +125,10 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
-#THIS FOLDER TO IGNORE
-mmrotate
-saved_model
-
-
 # Pyre type checker
 .pyre/
+
+# OTHER FROM THIS 
+mmrotate
+*.pth
+.idea
